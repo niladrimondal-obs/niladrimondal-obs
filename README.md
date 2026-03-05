@@ -1,6 +1,6 @@
 # Hi, I'm Niladri 👋
 
-## Observability & AIOps Architect | Platform Leader | 16 Years | 1M+ Nodes | 1,000+ Enterprises
+## Observability & AIOps Architect | Platform Leader | 16 Years | 1M+ Nodes | 1,000+ Enterprises | Agentic AI
 
 I've spent 16 years designing and scaling observability and AIOps platforms for the world's largest enterprises — from building Accenture's MyWizard AIOps platform (300+ enterprise customers, 2.2x revenue growth) to leading DXC's global Dynatrace platform serving 260+ clients, 300,000+ OS instances, and 1.5B+ DDUs — one of the largest managed Dynatrace environments globally.
 
