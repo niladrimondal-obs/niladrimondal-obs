@@ -6,11 +6,7 @@ I've spent 16 years designing and scaling observability and AIOps platforms for 
 
 I'm a hybrid: **deep technical architect** and **product leader** — I've owned roadmaps, backlog, quarterly releases, and vendor governance across multi-region platforms, not just delivered implementations.
 
-I'm convinced the next 3 years will redefine what 'monitoring' means — from passive observation to autonomous systems that reason, correlate, and self-heal. I'm going deep on agentic AI, Model Context Protocol, and GenAI applied to observability — building the architecture most teams are still 2 years away from needing.
-
-I'm a hybrid: **deep technical architect** and **product leader** who has owned roadmaps, backlog, quarterly releases, and vendor governance — not just delivered implementations.
-
-Now I'm going deep at the intersection of **observability and agentic AI** — building intelligent systems that don't just detect problems, but reason about them, correlate them, and resolve them autonomously. I believe the next 3 years will redefine what 'monitoring' means — from passive observation to autonomous systems that reason, correlate, and self-heal. I'm building the architecture most teams are still 2 years away from needing.
+I'm convinced the next 3 years will redefine what 'monitoring' means — from passive observation to autonomous systems that reason, correlate, and self-heal. I'm going deep on **agentic AI, Model Context Protocol, and GenAI applied to observability** — building the architecture most teams are still 2 years away from needing.
 
 ---
 
